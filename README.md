@@ -35,10 +35,9 @@ Golang kodunu da sizlerle paylaştım. Başka haber kanallarını da ekleyerek h
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 
 ## İletişim
 
 Furkan Doğmuş - furkandogmus9183@gmail.com
 
-Proje Linki: [https://furkandogmus.vercel.app](https://furkandogmus.vercel.app)
