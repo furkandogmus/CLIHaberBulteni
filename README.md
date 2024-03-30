@@ -1,6 +1,6 @@
 # CLI Haber Bülteni
 
-CLI Haber Bülteni, gzt.com'dan haber başlıklarını ve URL'leri kazımak için kullanılan bir komut satırı aracıdır.
+CLI Haber Bülteni, gzt.com'dan haber başlıklarını ve URL'leri çekmek için kullanılan bir komut satırı aracıdır.
 
 ## Kurulum
 
